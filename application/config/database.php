@@ -74,12 +74,12 @@ $active_group = 'default';
 $query_builder = TRUE;
 
 $db['default'] = array(
-	'dsn'	=> '',
+	'dsn'	=> getenv('DATABASE_DSN'),
 	'hostname' => !empty(getenv('MYSQL_HOST_NAME')) ? getenv('MYSQL_HOST_NAME') : 'localhost',
 	'username' => !empty(getenv('MYSQL_USERNAME')) ? getenv('MYSQL_USERNAME')
         : 'root',
 	'password' => !empty(getenv('MYSQL_PASSWORD')) ? getenv('MYSQL_PASSWORD')
-        : 'admin@mysql',
+        : 'root',
 	'database' => !empty(getenv('MYSQL_DB_NAME')) ? getenv('MYSQL_DB_NAME') :
         'open_pos',
 	'dbdriver' => 'mysqli',
