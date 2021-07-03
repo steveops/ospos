@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ef51fdb-6e27-40c5-914d-82f5db5a7eaa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1uXrWGMmZRAZKc8W8nzGFNXQxbZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="database.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/database/database.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="9417bcc4-6ae7-4447-90aa-fdf0e0a90a26" namespace="schema/&quot;open_pos&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.database.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ef51fdb-6e27-40c5-914d-82f5db5a7eaa" name="Default Changelist" comment="" />
+      <created>1624822804862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624822804862</updated>
+      <workItem from="1624822808330" duration="991000" />
+      <workItem from="1624824084620" duration="832000" />
+      <workItem from="1625085390361" duration="890000" />
+      <workItem from="1625297397445" duration="4477000" />
+      <workItem from="1625320825776" duration="455000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="250" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624823210203">
+      <screen x="0" y="23" width="1920" height="1123" />
+    </state>
+    <state x="560" y="250" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1123@0.23.1920.1123" timestamp="1624823210203" />
+    <state x="641" y="255" key="#database.sql" timestamp="1625300379120">
+      <screen x="0" y="23" width="1920" height="1123" />
+    </state>
+    <state x="641" y="255" key="#database.sql/0.23.1920.1123/338.-745.1366.745@0.23.1920.1123" timestamp="1625300379120" />
+    <state width="1878" height="82" key="GridCell.Tab.0.bottom" timestamp="1625314932836">
+      <screen x="0" y="23" width="1920" height="1123" />
+    </state>
+    <state width="1878" height="82" key="GridCell.Tab.0.bottom/338.-745.1366.745/0.23.1920.1123@0.23.1920.1123" timestamp="1625314932836" />
+    <state width="1878" height="82" key="GridCell.Tab.0.center" timestamp="1625314932835">
+      <screen x="0" y="23" width="1920" height="1123" />
+    </state>
+    <state width="1878" height="82" key="GridCell.Tab.0.center/338.-745.1366.745/0.23.1920.1123@0.23.1920.1123" timestamp="1625314932835" />
+    <state width="1878" height="82" key="GridCell.Tab.0.left" timestamp="1625314932835">
+      <screen x="0" y="23" width="1920" height="1123" />
+    </state>
+    <state width="1878" height="82" key="GridCell.Tab.0.left/338.-745.1366.745/0.23.1920.1123@0.23.1920.1123" timestamp="1625314932835" />
+    <state width="1878" height="82" key="GridCell.Tab.0.right" timestamp="1625314932836">
+      <screen x="0" y="23" width="1920" height="1123" />
+    </state>
+    <state width="1878" height="82" key="GridCell.Tab.0.right/338.-745.1366.745/0.23.1920.1123@0.23.1920.1123" timestamp="1625314932836" />
+    <state width="243" height="539" key="HiddenNamespacesPopup" timestamp="1624823237160">
+      <screen x="0" y="23" width="1920" height="1123" />
+    </state>
+    <state width="243" height="539" key="HiddenNamespacesPopup/0.23.1920.1123@0.23.1920.1123" timestamp="1624823237160" />
+    <state x="864" y="470" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1625300323935">
+      <screen x="0" y="23" width="1920" height="1123" />
+    </state>
+    <state x="864" y="470" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.23.1920.1123/338.-745.1366.745@0.23.1920.1123" timestamp="1625300323935" />
+    <state x="864" y="470" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.23.1920.1123@0.23.1920.1123" timestamp="1624823498080" />
+    <state x="833" y="479" width="341" height="239" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1625300294939">
+      <screen x="0" y="23" width="1920" height="1123" />
+    </state>
+    <state x="833" y="479" width="341" height="239" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.23.1920.1123/338.-745.1366.745@0.23.1920.1123" timestamp="1625300294939" />
+    <state x="661" y="343" width="598" height="482" key="find.popup" timestamp="1625085705029">
+      <screen x="0" y="23" width="1920" height="1123" />
+    </state>
+    <state x="661" y="343" width="598" height="482" key="find.popup/0.23.1920.1123@0.23.1920.1123" timestamp="1625085705029" />
+    <state x="625" y="274" width="670" height="676" key="search.everywhere.popup" timestamp="1625297889343">
+      <screen x="0" y="23" width="1920" height="1123" />
+    </state>
+    <state x="625" y="274" width="670" height="676" key="search.everywhere.popup/0.23.1920.1123@0.23.1920.1123" timestamp="1625297889343" />
+  </component>
+</project>
