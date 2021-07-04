@@ -18,6 +18,12 @@
   "homepage": "https://github.com/opensourcepos/opensourcepos",
   "require": {
 	"php": "^7.2",
+	"ext-bcmath": "*",
+	"ext-gd": "*",
+	"ext-intl":  "*",
+	"ext-openssl":  "*",
+	"ext-mbstring":  "*",
+	"ext-curl":  "*",
 	"codeigniter/framework": "^3.1.11",
 	"dompdf/dompdf": "^0.8.5",
 	"tamtamchik/namecase": "^1.0",

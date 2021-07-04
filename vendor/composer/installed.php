@@ -5,7 +5,7 @@
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'ea3852911f8cae82c946d9341f9dcd6fc1f4bfda',
+        'reference' => '6ea867758a6c21474a8459742d2ffe56bd18f4da',
         'name' => 'opensourcepos/opensourcepos',
         'dev' => true,
     ),
@@ -34,7 +34,7 @@
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'ea3852911f8cae82c946d9341f9dcd6fc1f4bfda',
+            'reference' => '6ea867758a6c21474a8459742d2ffe56bd18f4da',
             'dev_requirement' => false,
         ),
         'paragonie/random_compat' => array(
